@@ -6,27 +6,19 @@ Using the same dataset, I developed two dashboard versions with slightly differe
 
 The dashboard highlights:
 
--Total Sales
+- Total Sales
 
--Total Profit
+- Total Profit
 
--Total Costs
+- Total Costs
 
--Profit performance by state
+- Profit performance by state
 
--Profit distribution across stores
+- Profit distribution across stores
 
--Store-level profitability comparison
+- Store-level profitability comparison
 
-With this dashboard, users can answer questions like:
-
--Which states generate the highest profit?
-
--Are profits concentrated in a few stores or evenly distributed?
-
--Which stores are performing above/below average?
-
--How do sales, costs, and profit compare overall?
+With this dashboard, users can answer questions regarding which states generate the highest profit, are profits concentrated in a few stores or evenly distributed, which stores are performing above/below average, and how do sales, costs, and profit compare overall.
 
 ### Dashboard Example 1
 ![First Dashboard](First_dashboard_preview.png)
